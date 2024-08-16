@@ -4,4 +4,8 @@
 
 ![tom_5](https://github.com/user-attachments/assets/90a96f8a-3845-49f6-b9e1-17d7630fd222)
 
+<p align="center">
+  <img src="predicted_images/tom_3.jpeg" alt="Image 1" width="45%" />
+  <img src="predicted_images/tom_5.jpeg" alt="Image 2" width="45%" />
+</p>
 
