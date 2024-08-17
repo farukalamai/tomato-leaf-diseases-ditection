@@ -4,6 +4,7 @@
   <img src="predicted_images/tom_5.jpeg" alt="Image 2" width="45%" />
 </p>
 
+
 ## Dataset
 You can find the dataset used in this project on Kaggle: [Tomato Leaf Diseases](https://www.kaggle.com/datasets/farukalam/tomato-leaf-diseases-detection-computer-vision)
 
